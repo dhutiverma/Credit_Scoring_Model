@@ -1,4 +1,4 @@
-# CodeAlpha Task 1 — Credit Scoring Model
+#  Task 1 — Credit Scoring Model
 
 ## Objective
 Predict whether an applicant is creditworthy using historical financial information.
